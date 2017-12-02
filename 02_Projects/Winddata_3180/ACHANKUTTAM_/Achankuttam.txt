@@ -1,0 +1,11 @@
+Site Name	:ACHANKUTTAM 
+District	:TIRUNELVELI
+State Name	:TAMIL NADU 
+Commenced on	:20-03-1996
+Closed on	:11-03-1998
+Mast Height	:20 m
+Latitude	:08 degree 57 minute 08 Seconds N
+Longitude	:77 degree 28 minute 38 Seconds E
+Elevation	:139 AMSL 
+
+Data Missing: 1996-Apr (21.04.96 16:00 hrs- 23:00 hrs) Apr (22.04.96-30.04.96)  May (01.05.96 00:00 hrs-07.05.96 11:00 hrs) Nov (05.11.96 13:00 hrs-30.11.96 23:00 hrs), Dec                                                                                             1997-Jan (01.01.97 00:00 hrs-02.01.97 12:00 hrs)                                             
